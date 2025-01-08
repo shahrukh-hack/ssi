@@ -20,11 +20,11 @@ const Contact = () => {
                 </div>
                 <div className="flex items-center">
                   <Mail className="h-6 w-6 text-blue-600 mr-4" />
-                  <span className="text-gray-600">contact@siddheshwarsai.com</span>
+                  <span className="text-gray-600">contact@yogeshp57.com</span>
                 </div>
                 <div className="flex items-center">
                   <Phone className="h-6 w-6 text-blue-600 mr-4" />
-                  <span className="text-gray-600">+61 XXX XXX XXX</span>
+                  <span className="text-gray-600">+61 0493 824 864</span>
                 </div>
               </div>
             </div>
